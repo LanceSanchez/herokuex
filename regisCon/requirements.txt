@@ -9,7 +9,6 @@ Jinja2==2.9.6
 PyJWT==1.5.3
 SQLAlchemy==1.1.15
 alembic==0.9.6
-jquery-alchemy==0.0.0
 jsonify==0.5
 pip==9.0.1
 psycopg2==2.7.4
